@@ -1,12 +1,14 @@
 # Quiz App
-## This is a simple Quiz App created using Python and the Tkinter library. The app presents a series of True/False questions to the user, and the user can answer each question by clicking the corresponding buttons. The app provides instant feedback on the correctness of the user's response and displays the final score at the end of the quiz.
+### This is a simple Quiz App created using Python and the Tkinter library. The app presents a series of True/False questions to the user, and the user can answer each question by clicking the corresponding buttons. The app provides instant feedback on the correctness of the user's response and displays the final score at the end of the quiz.
 
 ## How to Run the App
 Clone the repository to your local machine using the following command:
 
 `git clone https://github.com/Alisadaintanvir/quiz-app.git`
+
 Navigate to the project directory:
 `cd quiz-app`
+
 Make sure you have Python and Tkinter installed on your machine.
 
 Run the main.py file to start the Quiz App:
